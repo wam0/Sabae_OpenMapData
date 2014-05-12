@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CCODE": 5226 }, "geometry": { "type": "LineString", "coordinates": [ [ 136.266323292816935, 35.971606160327958 ], [ 136.266362436993944, 35.971574166534182 ] ] } }
+]
+}

@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.169282375364759, 35.96310233116138 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.157157942307293, 35.965594319143065 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.165684538993332, 35.962979093250524 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.183346210242036, 35.963498803517098 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.155380709192542, 35.953506837590531 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.185492736915052, 35.95623954025605 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.179718089779925, 35.947480009977312 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.199089482924109, 35.938959267314921 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.186608765505554, 35.942526327018093 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.186549270310564, 35.942537325600242 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.16149206993498, 35.979432946675985 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.157163787914499, 35.977662090254462 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.161105283919426, 35.976270082291052 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.161245162815845, 35.976294771010068 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.174273638836723, 35.988454632026247 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.200391784900688, 35.968363865682868 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.208033458507913, 35.961469858185438 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.250367875264601, 35.959856660332903 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.208353876901043, 35.953708594116243 ] } },
+{ "type": "Feature", "properties": { "CCODE": 4203 }, "geometry": { "type": "Point", "coordinates": [ 136.234891854321518, 35.953130871720298 ] } }
+]
+}

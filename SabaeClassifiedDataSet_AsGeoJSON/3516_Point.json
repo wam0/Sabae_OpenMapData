@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CCODE": 3516 }, "geometry": { "type": "Point", "coordinates": [ 136.275364717900345, 35.953472429344174 ] } },
+{ "type": "Feature", "properties": { "CCODE": 3516 }, "geometry": { "type": "Point", "coordinates": [ 136.203476963617959, 35.938125750135022 ] } },
+{ "type": "Feature", "properties": { "CCODE": 3516 }, "geometry": { "type": "Point", "coordinates": [ 136.208240422403918, 35.953394137047525 ] } },
+{ "type": "Feature", "properties": { "CCODE": 3516 }, "geometry": { "type": "Point", "coordinates": [ 136.23917351252058, 35.952067320595233 ] } },
+{ "type": "Feature", "properties": { "CCODE": 3516 }, "geometry": { "type": "Point", "coordinates": [ 136.151830907213451, 35.9455733627886 ] } }
+]
+}

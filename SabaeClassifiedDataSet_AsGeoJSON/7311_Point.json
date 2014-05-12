@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CCODE": 7311 }, "geometry": { "type": "Point", "coordinates": [ 136.287944574243198, 35.97287378201662 ] } },
+{ "type": "Feature", "properties": { "CCODE": 7311 }, "geometry": { "type": "Point", "coordinates": [ 136.286981590747416, 35.972758826647961 ] } },
+{ "type": "Feature", "properties": { "CCODE": 7311 }, "geometry": { "type": "Point", "coordinates": [ 136.235977467574202, 35.986593807127235 ] } },
+{ "type": "Feature", "properties": { "CCODE": 7311 }, "geometry": { "type": "Point", "coordinates": [ 136.228759663432271, 35.990202895121001 ] } }
+]
+}

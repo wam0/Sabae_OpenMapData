@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "CCODE": 2219 }, "geometry": { "type": "Point", "coordinates": [ 136.168387226581359, 35.948949926118701 ] } }
+]
+}
