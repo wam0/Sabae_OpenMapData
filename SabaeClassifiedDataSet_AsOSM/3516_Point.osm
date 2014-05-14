@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="35.953472429" lon="136.275364718" visible="true"><tag k="CCODE" v="3516" /></node>
+<node id="-2" lat="35.93812575" lon="136.203476964" visible="true"><tag k="CCODE" v="3516" /></node>
+<node id="-3" lat="35.953394137" lon="136.208240422" visible="true"><tag k="CCODE" v="3516" /></node>
+<node id="-4" lat="35.952067321" lon="136.239173513" visible="true"><tag k="CCODE" v="3516" /></node>
+<node id="-5" lat="35.945573363" lon="136.151830907" visible="true"><tag k="CCODE" v="3516" /></node>
+</osm>

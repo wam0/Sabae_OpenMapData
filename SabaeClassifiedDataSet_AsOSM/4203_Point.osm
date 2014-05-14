@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="35.963102331" lon="136.169282375" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-2" lat="35.965594319" lon="136.157157942" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-3" lat="35.962979093" lon="136.165684539" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-4" lat="35.963498804" lon="136.18334621" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-5" lat="35.953506838" lon="136.155380709" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-6" lat="35.95623954" lon="136.185492737" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-7" lat="35.94748001" lon="136.17971809" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-8" lat="35.938959267" lon="136.199089483" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-9" lat="35.942526327" lon="136.186608766" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-10" lat="35.942537326" lon="136.18654927" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-11" lat="35.979432947" lon="136.16149207" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-12" lat="35.97766209" lon="136.157163788" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-13" lat="35.976270082" lon="136.161105284" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-14" lat="35.976294771" lon="136.161245163" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-15" lat="35.988454632" lon="136.174273639" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-16" lat="35.968363866" lon="136.200391785" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-17" lat="35.961469858" lon="136.208033459" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-18" lat="35.95985666" lon="136.250367875" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-19" lat="35.953708594" lon="136.208353877" visible="true"><tag k="CCODE" v="4203" /></node>
+<node id="-20" lat="35.953130872" lon="136.234891854" visible="true"><tag k="CCODE" v="4203" /></node>
+</osm>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="35.98898863" lon="136.177739372" visible="true" />
+<node id="-3" lat="35.988985294" lon="136.177739919" visible="true" />
+<node id="-4" lat="35.988977536" lon="136.177683451" visible="true" />
+<node id="-5" lat="35.988993945" lon="136.17768016" visible="true" />
+<node id="-6" lat="35.989001341" lon="136.177737293" visible="true" />
+<node id="-7" lat="35.988998547" lon="136.17773773" visible="true" />
+<node id="-9" lat="35.988925488" lon="136.177589952" visible="true" />
+<node id="-10" lat="35.988881403" lon="136.177596729" visible="true" />
+<node id="-11" lat="35.988880604" lon="136.177588521" visible="true" />
+<node id="-12" lat="35.988924508" lon="136.177582076" visible="true" />
+<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-6" /><nd ref="-7" /><tag k="CCODE" v="5203" /></way>
+<way id="-8" visible="true"><nd ref="-9" /><nd ref="-10" /><nd ref="-11" /><nd ref="-12" /><nd ref="-9" /><tag k="CCODE" v="5203" /></way>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-2" lat="35.971559661" lon="136.198462558" visible="true" />
+<node id="-3" lat="35.971553497" lon="136.198483831" visible="true" />
+<node id="-4" lat="35.971462169" lon="136.198443907" visible="true" />
+<node id="-5" lat="35.971437965" lon="136.198527451" visible="true" />
+<node id="-6" lat="35.971318716" lon="136.19847526" visible="true" />
+<node id="-7" lat="35.971324608" lon="136.198454984" visible="true" />
+<node id="-8" lat="35.971426294" lon="136.19849948" visible="true" />
+<node id="-9" lat="35.971444062" lon="136.198437875" visible="true" />
+<node id="-10" lat="35.971411728" lon="136.198423712" visible="true" />
+<node id="-11" lat="35.971449529" lon="136.198293079" visible="true" />
+<node id="-12" lat="35.971327037" lon="136.198239439" visible="true" />
+<node id="-13" lat="35.971350697" lon="136.198157447" visible="true" />
+<node id="-14" lat="35.971366099" lon="136.198164138" visible="true" />
+<node id="-15" lat="35.971348241" lon="136.198225854" visible="true" />
+<node id="-16" lat="35.971482712" lon="136.198284735" visible="true" />
+<node id="-17" lat="35.971445726" lon="136.198412709" visible="true" />
+<node id="-19" lat="35.943649811" lon="136.18875752" visible="true" />
+<node id="-20" lat="35.943653537" lon="136.188910158" visible="true" />
+<node id="-21" lat="35.943718171" lon="136.188904991" visible="true" />
+<node id="-22" lat="35.943719193" lon="136.188942458" visible="true" />
+<node id="-23" lat="35.943544684" lon="136.188949691" visible="true" />
+<node id="-24" lat="35.94354366" lon="136.188913443" visible="true" />
+<node id="-25" lat="35.943611083" lon="136.188910722" visible="true" />
+<node id="-26" lat="35.943608184" lon="136.18880608" visible="true" />
+<node id="-27" lat="35.94354121" lon="136.188808914" visible="true" />
+<node id="-28" lat="35.943539933" lon="136.188761581" visible="true" />
+<way id="-1" visible="true"><nd ref="-2" /><nd ref="-3" /><nd ref="-4" /><nd ref="-5" /><nd ref="-6" /><nd ref="-7" /><nd ref="-8" /><nd ref="-9" /><nd ref="-10" /><nd ref="-11" /><nd ref="-12" /><nd ref="-13" /><nd ref="-14" /><nd ref="-15" /><nd ref="-16" /><nd ref="-17" /><nd ref="-2" /><tag k="CCODE" v="2411" /></way>
+<way id="-18" visible="true"><nd ref="-19" /><nd ref="-20" /><nd ref="-21" /><nd ref="-22" /><nd ref="-23" /><nd ref="-24" /><nd ref="-25" /><nd ref="-26" /><nd ref="-27" /><nd ref="-28" /><nd ref="-19" /><tag k="CCODE" v="2411" /></way>
+</osm>

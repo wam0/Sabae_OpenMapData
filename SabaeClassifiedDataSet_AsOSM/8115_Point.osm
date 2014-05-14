@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="35.956950374" lon="136.194627495" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-2" lat="35.960476234" lon="136.274520292" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-3" lat="35.945369669" lon="136.220122" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-4" lat="35.9450368" lon="136.208308165" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-5" lat="35.945037233" lon="136.208058769" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-6" lat="35.955331734" lon="136.22079117" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-7" lat="35.952625202" lon="136.214843528" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-8" lat="35.955463435" lon="136.20889925" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-9" lat="35.955460155" lon="136.208712224" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-10" lat="35.947745148" lon="136.22010908" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-11" lat="35.949411926" lon="136.215115832" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-12" lat="35.949412373" lon="136.214866422" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-13" lat="35.951554571" lon="136.208057566" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-14" lat="35.947475818" lon="136.209798251" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-15" lat="35.947476254" lon="136.209548847" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-16" lat="35.955698794" lon="136.222040677" visible="true"><tag k="CCODE" v="8115" /></node>
+<node id="-17" lat="35.947659689" lon="136.222122157" visible="true"><tag k="CCODE" v="8115" /></node>
+</osm>

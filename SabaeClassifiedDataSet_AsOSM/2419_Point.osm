@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="35.972288242" lon="136.165969662" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-2" lat="35.971682436" lon="136.166116863" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-3" lat="35.956429203" lon="136.19925537" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-4" lat="35.95651198" lon="136.19928806" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-5" lat="35.952472297" lon="136.198482537" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-6" lat="35.952621531" lon="136.198388795" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-7" lat="35.952224211" lon="136.198615495" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-8" lat="35.952384958" lon="136.198536637" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-9" lat="35.953383709" lon="136.197067313" visible="true"><tag k="CCODE" v="2419" /></node>
+<node id="-10" lat="35.953267664" lon="136.197477964" visible="true"><tag k="CCODE" v="2419" /></node>
+</osm>

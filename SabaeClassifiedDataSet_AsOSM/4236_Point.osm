@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<osm version="0.6" upload="false" generator="uvmogr2osm">
+<node id="-1" lat="35.965590736" lon="136.145489188" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-2" lat="35.96311408" lon="136.182897744" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-3" lat="35.966370313" lon="136.197782446" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-4" lat="35.948474453" lon="136.151706987" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-5" lat="35.956853658" lon="136.168793119" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-6" lat="35.951539268" lon="136.156741341" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-7" lat="35.957228244" lon="136.184416598" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-8" lat="35.936133239" lon="136.179477833" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-9" lat="35.972950704" lon="136.150748877" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-10" lat="35.986346697" lon="136.159166141" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-11" lat="35.976401408" lon="136.169670265" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-12" lat="35.982892121" lon="136.193550609" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-13" lat="35.954335326" lon="136.281748374" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-14" lat="35.945557315" lon="136.237208137" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-15" lat="35.943831557" lon="136.248034866" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-16" lat="35.963285899" lon="136.203113314" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-17" lat="35.957221687" lon="136.20669543" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-18" lat="35.931801363" lon="136.198857754" visible="true"><tag k="CCODE" v="4236" /></node>
+<node id="-19" lat="35.929609462" lon="136.192692342" visible="true"><tag k="CCODE" v="4236" /></node>
+</osm>
