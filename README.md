@@ -25,25 +25,25 @@ Sabae_OpenMapData
   鯖江市のオープンデータ地図情報を多目的に使いやすく整理、改変したファイルを再配布しています。
   鯖江市ご提供の地図情報を分類コードごとに**SHP形式**、**GeoJSON形式**、及び**.osm形式**のデータにしました。
 
-###CSVデータリストに関して###
+###CSVデータリスト###
 * Sabae_DataList.csvにどんなデータがあるかをリストにまとめました。
 * CSVデータはEXCELで作成したのでShift-JISで保存されています。
 
-###SHPファイルのデータ・セットに関して###
+###SHPファイルのデータ・セット###
 * SabaeClassifiedDataSet_AsSHP.7zにSHPファイル形式のデータ・セットをまとめています。
 * 分類コードごとにSHPファイルを作成しています。
 * また、SHPファイル作成にあたり、元データの属性テーブルを大幅に加工しています。
 * 各SHPファイルはShift-JISで保存されています。
 * SHP形式のファイルを7z形式でまとめています。
 
-###GeoJSONのデータ・セットに関して###
+###GeoJSONのデータ・セット###
 * SabaeClassifiedDataSet_AsGeoJSONのフォルダにGeoJSON形式のデータ・セットをまとめています。
 * SHPファイルからogr2ogrを用いてGeoJSON形式に変換しました。
 * [GeoJSONLint](http://geojsonlint.com/)での地図上での動作確認済み
 * [GeoJSON -> TopoJSON](http://jeffpaine.github.io/geojson-topojson/)での動作確認済み
 * 7102_Lineに関しては100MBを超えるため、7z形式に圧縮してGitHubへアップロードしてます。
 
-###.osmのデータ・セットに関して###
+###.osmのデータ・セット###
 * SabaeClassifiedDataSet_AsOSMのフォルダに.osm形式のデータ・セットにまとめています。
 * shpのデータ・セットよりogr2osmを用いて.osmにデータ変換しています。
 * 7101_Line.osm及び7102_Line.osmに関しては50MBを超えるため、7z形式に圧縮してGitHubへアップロードしています。
