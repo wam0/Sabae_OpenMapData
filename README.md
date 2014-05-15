@@ -27,13 +27,13 @@ Sabae_OpenMapData
 
 ###CSVデータリスト###
 * Sabae_DataList.csvにどんなデータがあるかをリストにまとめました。
-* CSVデータはEXCELで作成したのでShift-JISで保存されています。
+* CSVデータはEXCELで作成し、エンコードはShift-JISで保存されています。
 
 ###SHPファイルのデータ・セット###
 * SabaeClassifiedDataSet_AsSHP.7zにSHPファイル形式のデータ・セットをまとめています。
 * 分類コードごとにSHPファイルを作成しています。
 * また、SHPファイル作成にあたり、元データの属性テーブルを大幅に加工しています。
-* 各SHPファイルはShift-JISで保存されています。
+* 各SHPファイルのエンコードはShift-JISで保存されています。
 * SHP形式のファイルを7z形式でまとめています。
 
 ###GeoJSONのデータ・セット###
