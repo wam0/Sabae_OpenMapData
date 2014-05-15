@@ -39,8 +39,8 @@ Sabae_OpenMapData
 ###GeoJSONのデータ・セットに関して###
 * SabaeClassifiedDataSet_AsGeoJSONのフォルダにGeoJSON形式のデータ・セットをまとめています。
 * SHPファイルからogr2ogrを用いてGeoJSON形式に変換しました。
-*  http://geojsonlint.com/　←こちらでの地図上での動作確認済み
-*  http://jeffpaine.github.io/geojson-topojson/　←GeoJSON -> TopoJSONでの動作確認済み
+* [GeoJSONLint](http://geojsonlint.com/)での地図上での動作確認済み
+* [GeoJSON -> TopoJSON](http://jeffpaine.github.io/geojson-topojson/)での動作確認済み
 * 7102_Lineに関しては100MBを超えるため、7z形式に圧縮してGitHubへアップロードしてます。
 
 ###.osmのデータ・セットに関して###
