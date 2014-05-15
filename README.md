@@ -1,13 +1,13 @@
 Sabae_OpenMapData
 =================
 
-http://www.city.sabae.fukui.jp/pageview.html?id=13892
+鯖江市のオープンデータ地図情報を多目的に使いやすく整理、改変したファイルを再配布しています。
+鯖江市ご提供の地図情報を分類コードごとにSHP形式、GeoJSON形式、及び.osm形式のデータにしました。
 
-(c)Sabae city, CC BY
 
------
-
-鯖江市の地図情報（shape）
+データに関して
+--------------
+[鯖江市の地図情報（shape）](http://www.city.sabae.fukui.jp/pageview.html?id=13892)
 
 * 縮尺： 1/2500
 
@@ -20,8 +20,11 @@ http://www.city.sabae.fukui.jp/pageview.html?id=13892
 　本地図情報は、都市計画関連業務のために作成されたものですが、公共測量等の高度な精度が要求される測量、各種証明等には使用することができません。また、利用者の利用目的に適合しているとは限りませんので、利用者は自らの責任でご自身の利用目的に適合しているかどうかをご判断ください。
 
 
-本データ・セットに関しての説明
 
+
+
+本データ・セットに関しての説明
+------------------------------
   鯖江市のオープンデータ地図情報を多目的に使いやすく整理、改変したファイルを再配布しています。
   鯖江市ご提供の地図情報を分類コードごとにSHP形式、GeoJSON形式、及び.osm形式のデータにしました。
 
@@ -44,4 +47,9 @@ http://www.city.sabae.fukui.jp/pageview.html?id=13892
   ４．"SabaeClassifiedDataSet_AsOSM"：.osmのデータ・セットに関しての注意
   　　・shpのデータ・セットよりogr2osmを用いて.osmにデータ変換しています。
   　　・7101_Line.osm及び7102_Line.osmに関しては50MBを超えるため、7z形式に圧縮してGitHubへアップロードしています。
-＝＝＝＝＝＝
+
+ライセンス
+----------
+(c)Sabae city, CC BY 
+ライセンスは、Creative Commonsの「表示」（CC BY）としています。
+
