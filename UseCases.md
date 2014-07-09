@@ -4,4 +4,4 @@ OpenStreetMapへの建物レイヤのインポート,http://wiki.openstreetmap.o
 
 鯖江の街路樹データ(古橋), http://nenvgis.github.io/Sabae_OpenMapData/
 
-鯖江の街路樹データ(小坂), http://sayokosaka.github.io/Sabae_OpenMapData/
+鯖江の街路樹データ(松崎), http://kebiko.github.io/Sabae_OpenMapData/
